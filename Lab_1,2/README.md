@@ -1,8 +1,8 @@
-#Python Practicals
+# Python Practicals
 
 ---
 
-##Lab 1, 2
+## Lab 1, 2
 
 1. Write a program to demonstrate basic data type in python.
 2. write a program to compute distance between two points taking input from the user.

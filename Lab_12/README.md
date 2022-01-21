@@ -1,8 +1,8 @@
-#Python Practicals
+# Python Practicals
 
 ---
 
-##Lab 12
+## Lab 12
 
 
 Lab Project : Understand what is vulnerable regular expressions, demonstrate 

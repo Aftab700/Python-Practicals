@@ -1,7 +1,7 @@
-#Python Practicals
+# Python Practicals
 
 ---
-##Lab 14.
+## Lab 14.
 
 ***Creating a chatroom using socket and thread.***
 

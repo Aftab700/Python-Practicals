@@ -1,8 +1,8 @@
-#Python Practicals
+# Python Practicals
 
 ---
 
-##Lab 8 and Lab 9
+## Lab 8 and Lab 9
 
 1. Write a Python function to find the Max of three numbers
 2. Write a Python function to sum all the numbers in a list

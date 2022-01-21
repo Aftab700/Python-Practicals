@@ -1,8 +1,8 @@
-#Python Practicals
+# Python Practicals
 
 ---
 
-##Lab : 4
+## Lab : 4
 
 
 1. Find the size of a Set in Python

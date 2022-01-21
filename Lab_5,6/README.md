@@ -1,8 +1,8 @@
-#Python Practicals
+# Python Practicals
 
 ---
 
-##Lab 5 and 6
+## Lab 5 and 6
 1. Python program to interchange first and last elements in a list
 2. Python program to swap two elements in a list
 3. Finding the length of list without using len() method.

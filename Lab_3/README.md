@@ -1,7 +1,7 @@
-#Python Practicals
+# Python Practicals
 
 ---
-##Lab 3:
+## Lab 3:
 
 
 1.Creating a Python dictionary that represents book chapters (1 to 8) with nested items representing sections of any book.

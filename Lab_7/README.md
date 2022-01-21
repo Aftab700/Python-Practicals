@@ -1,9 +1,9 @@
-#Python Practicals
+# Python Practicals
 
 ---
 
 
-##Lab 7 : 
+## Lab 7 : 
 1. Python program to find the size of a Tuple in Python
 2. Python program to find the sum of tuple elements
 3. Python program for adding tuple to list and vice – versa

@@ -1,7 +1,7 @@
-#Python Practicals
+# Python Practicals
 
 ---
-##Lab 14 : Working with python and MySQL Server.
+## Lab 14 : Working with python and MySQL Server.
 
 
 Install SQL/ORACLE Server in one system of Lab and Students from remaining system with try to perform following tasks through their python scripts:
