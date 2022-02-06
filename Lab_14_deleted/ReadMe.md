@@ -1,4 +1,5 @@
-# Python Practicals
+# [Python Practicals](../../../)
+
 
 ---
 ## Lab 14.
