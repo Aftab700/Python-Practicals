@@ -1,4 +1,4 @@
-# Python Practicals
+# [Python Practicals](../../../)
 
 ---
 ## Lab 14 : Working with python and MySQL Server.
